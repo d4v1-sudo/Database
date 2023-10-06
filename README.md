@@ -32,6 +32,7 @@ cd todo-app
 
 python3 app.py
 
+
 Make sure you have Python installed on your system to run this application.
 
 Enjoy managing your tasks with this simple todo app!
