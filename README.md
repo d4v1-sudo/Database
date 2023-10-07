@@ -2,6 +2,26 @@
 
 This is a simple command-line todo application that allows you to manage your tasks by adding, completing, and deleting them. You can also view your task list.
 
+## Installation
+
+1. Clone the repository:
+
+``` shell
+git clone https://github.com/your-username/todo-app.git
+```
+
+2. Navigate to the project directory:
+
+``` shell
+cd Database
+```
+
+3. Run the application:
+
+``` python
+python3 app.py
+```
+
 ## Usage
 
 1. Run `app.py` to start the application.
@@ -18,21 +38,6 @@ This is a simple command-line todo application that allows you to manage your ta
 - `db.py`: Manages the SQLite database for storing tasks.
 - `messages.py`: Contains functions for displaying messages and managing tasks.
 
-## Installation
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/todo-app.git
-
-2. Navigate to the project directory:
-
-cd todo-app
-
-3. Run the application:
-
-python3 app.py
-
-
-Make sure you have Python installed on your system to run this application.
+Make sure you have Python3 installed on your system to run this application.
 
 Enjoy managing your tasks with this simple todo app!
