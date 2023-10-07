@@ -6,21 +6,21 @@ This is a simple command-line todo application that allows you to manage your ta
 
 1. Clone the repository:
 
-``` shell
-git clone https://github.com/your-username/todo-app.git
-```
+   ``` shell
+   git clone https://github.com/your-username/todo-app.git
+   ```
 
 2. Navigate to the project directory:
 
-``` shell
-cd Database
-```
+   ``` shell
+   cd Database
+   ```
 
 3. Run the application:
 
-``` python
-python3 app.py
-```
+   ``` shell
+   python3 app.py
+   ```
 
 ## Usage
 
