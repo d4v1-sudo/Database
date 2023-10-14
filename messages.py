@@ -1,5 +1,4 @@
 import os
-
 import db
 
 INITIAL_MENU = 99
